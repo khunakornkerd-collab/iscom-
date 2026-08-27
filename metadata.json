@@ -1,0 +1,6 @@
+{
+  "name": "GameMatch: Indie & Action Games",
+  "description": "เว็บแนะนำและค้นหาเกมอินดี้และเกมแอคชั่นยอดเยี่ยม พร้อมระบบ AI แนะนำเกม แบบทดสอบค้นหาเกม และระบบฟิลเตอร์ละเอียด",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
